@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Archivos de Texto
+# Quiz: Análisis de Archivos de Texto
 
 ## Propietario
 **Nombre Completo**: Stefanía Ugalde Ramírez
